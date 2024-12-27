@@ -1,6 +1,5 @@
 "use client";
 
-import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Code, Zap, Share2 } from "lucide-react";
 import { motion } from "framer-motion";
