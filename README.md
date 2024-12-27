@@ -58,13 +58,13 @@ Algo Insights is an interactive web app designed to help users visualize and und
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/algo-insights.git
+   git clone https://github.com/rabinnepal/algorithm-visualizer.git
    ```
 
 2. Install dependencies:
 
    ```bash
-   cd algo-insights
+   cd algorithm-visualizer
    npm install
    ```
 
@@ -94,8 +94,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rabinnepal)
+- GitHub: [Your GitHub Profile](https://github.com/rabinnepal)
 
 ## Acknowledgments
 
@@ -117,7 +117,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   Absolutely! It's designed to facilitate learning and teaching algorithms.
 
 - **How do I report a bug or suggest a new feature?**  
-  Please open an issue on our [GitHub repository](https://github.com/yourusername/algo-insights/issues).
+  Please open an issue on our [GitHub repository](https://github.com/rabinnepal/algorithm-visualizer/issues).
 
 ---
 
