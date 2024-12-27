@@ -30,6 +30,10 @@ export default function VisualizerContainer() {
   const resetData = () => {
     setIsRunning(false);
     setIsDone(false);
+    const newData = [...Array(20)].map(
+      () => Math.floor(Math.random() * 100) + 1
+    );
+
     if (algorithm === "binary") {
       setData(
         [...Array(20)]
@@ -37,7 +41,7 @@ export default function VisualizerContainer() {
           .sort((a, b) => a - b)
       );
     } else {
-      setData([...Array(20)].map(() => Math.floor(Math.random() * 100) + 1));
+      setData(newData);
     }
   };
 

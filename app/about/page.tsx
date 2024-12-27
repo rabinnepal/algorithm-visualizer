@@ -17,7 +17,7 @@ export default function About() {
               className="flex flex-col items-center space-y-4 text-center"
             >
               <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                About Algo Viz
+                About Algo Insights
               </h1>
               <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
                 Empowering learners to visualize and understand complex
@@ -32,7 +32,7 @@ export default function About() {
             >
               <h2 className="text-2xl font-bold">Our Mission</h2>
               <p className="text-gray-500 dark:text-gray-400">
-                At Algo Viz, we believe that understanding algorithms is
+                At Algo Insights, we believe that understanding algorithms is
                 fundamental to computer science education and software
                 development. Our mission is to make algorithm learning
                 accessible, interactive, and engaging for everyone, from
@@ -41,7 +41,7 @@ export default function About() {
               <h2 className="text-2xl font-bold mt-6">Our Story</h2>
               <p className="text-gray-500 dark:text-gray-400">
                 Founded by a team of passionate computer scientists and
-                educators, Algo Viz was born out of the frustration of
+                educators, Algo Insights was born out of the frustration of
                 traditional, static methods of teaching algorithms. We set out
                 to create a platform that brings algorithms to life, allowing
                 learners to see how they work in real-time and experiment with
@@ -49,8 +49,8 @@ export default function About() {
               </p>
               <h2 className="text-2xl font-bold mt-6">Our Impact</h2>
               <p className="text-gray-500 dark:text-gray-400">
-                Since our launch, Algo Viz has helped thousands of students and
-                developers worldwide to deepen their understanding of
+                Since our launch, Algo Insights has helped thousands of students
+                and developers worldwide to deepen their understanding of
                 algorithms. Our platform is used in classrooms, coding
                 bootcamps, and by self-learners who are passionate about
                 improving their algorithmic thinking skills.

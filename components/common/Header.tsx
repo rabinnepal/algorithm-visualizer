@@ -31,7 +31,7 @@ export function Header() {
         <div className="flex gap-6 md:gap-10">
           <Link href="/" className="flex items-center space-x-2">
             <BarChart2 className="h-6 w-6" />
-            <span className="inline-block font-bold">Algo Viz</span>
+            <span className="inline-block font-bold">Algo Insights</span>
           </Link>
         </div>
         <div className="flex flex-1 items-center justify-end space-x-4">

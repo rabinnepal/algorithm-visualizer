@@ -69,8 +69,13 @@ export function RadixSort({
             animate={{ height: `${value}%` }}
             exit={{ height: 0 }}
             transition={{ duration: 0.5 }}
-            className={`w-8 rounded-t bg-cyan-500`}
-          />
+            className={`w-8 rounded-t relative flex items-end justify-center pb-2 bg-cyan-500`}
+            style={{ minHeight: `${value}%` }}
+          >
+            <span className="text-black text-sm font-medium ">
+              {Math.round(value)}
+            </span>
+          </motion.div>
         ))}
       </AnimatePresence>
     </div>

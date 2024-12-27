@@ -76,8 +76,8 @@ export default function Features() {
                 Our Features
               </h1>
               <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-                Discover the powerful features that make Algo Viz the perfect
-                tool for learning and understanding algorithms.
+                Discover the powerful features that make Algo Insights the
+                perfect tool for learning and understanding algorithms.
               </p>
             </motion.div>
             <div className="grid gap-10 sm:grid-cols-2 md:grid-cols-3 mt-12">
@@ -112,11 +112,11 @@ export default function Features() {
               </h2>
               <p className="mx-auto max-w-[600px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
                 Join thousands of students and developers who are already using
-                Algo Viz to enhance their understanding of algorithms.
+                Algo Insights to enhance their understanding of algorithms.
               </p>
               <Link href="/visualize">
                 <Button size="lg">
-                  Try Algo Viz Now
+                  Try Algo Insights Now
                   <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
               </Link>
