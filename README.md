@@ -93,7 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- Email: your.email@example.com
+- Email: rabeen1008@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rabinnepal)
 - GitHub: [Your GitHub Profile](https://github.com/rabinnepal)
 
