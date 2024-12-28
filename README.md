@@ -71,7 +71,7 @@ Algo Insights is an interactive web app designed to help users visualize and und
 3. Run the application:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Usage
